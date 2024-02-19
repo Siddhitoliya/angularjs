@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/924b87c4-794b-4974-a65f-7a41afd9aec9/resourceGroups/notes/providers/Microsoft.Web/sites/notesbysiddhi",
+    "appService.deploySubpath": "meanapp\\dist\\meanapp"
+}
